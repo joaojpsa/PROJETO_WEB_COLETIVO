@@ -1,2 +1,2 @@
 # PROJETO_WEB_COLETIVO
-#Estudo do Framewor Flask para Web
+#Estudo do Framework Flask para Web
